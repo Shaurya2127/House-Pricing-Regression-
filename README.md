@@ -51,12 +51,12 @@ Joblib
 
 ## 🧠 Best Model Results
 Model	CV RMSE Score
-Gradient Boosting-	25724.71741377381
+Gradient Boosting-	25397.642394844337
 XGBoost-	25461.998046875
 
 
 
-# ✅ Final Selected Model: Gradient Boosting or XGBoost (based on your result)
+# ✅ Final Selected Model: Gradient Boosting
 
 ## 🚀 How to Run
 Clone this repository
@@ -84,5 +84,6 @@ Copy code
 ## ✨ Project Screenshots
 ![image](https://github.com/user-attachments/assets/5c752730-746b-45df-bff5-adba93ae3a8c)
 
-![image](https://github.com/user-attachments/assets/381c83cc-e21a-4167-8306-b1b6872c97ce)
+![image](https://github.com/user-attachments/assets/e02e334b-43b7-4592-8c59-18cb157aa116)
+
 
